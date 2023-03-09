@@ -4,4 +4,4 @@ The application allows you to pull random quotes from the internet and post it d
 
 => You could simply go to this link to view the app:
 
-                           ---- https://nishanng.github.io/quotes_generator/ ------
+                                 https://nishanng.github.io/quotes_generator/ 
